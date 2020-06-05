@@ -60,9 +60,9 @@ logo = """
            |_|      (_/            
 
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
-\033[1;96m    ║✯ Facebook✔  Muhammad Ibtasam              ║    
-\033[1;98m    ║✯ Youtube✔  ☪ XIDI-PAKISTANI           ║  
-\033[1;96m    ║✯H4CK3R_XIDI_PAKISTANI✔║
+\033[1;96m    ║✯ Facebook Profile Link✔  Abdullah35007              ║    
+\033[1;98m    ║✯ Youtube✔  ☪ PAKISTANI           ║  
+\033[1;96m    ║✯H4CK3R_PAKISTANI✔║
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -71,8 +71,8 @@ def tik():
 
 
 back = 0
-berhasil = []
-cekpoint = []
+OK✔ = []
+CP = []
 oks = []
 id = []
 listgrup = []
@@ -82,7 +82,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE XIDI-PAKISTANI~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE 35007-PAKISTANI~
 \033[1;97m************************************************
 
 \033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
@@ -93,7 +93,7 @@ print  """
 """
 jalan("\033[1;92m              _    _     _ ")             
 jalan("\033[1;92m             | |  (_)   | |")             
-jalan("\033[1;92m  _ __   __ _| | ___ ___| |_ __ _ _ __  ZINDABAD✔ ") 
+jalan("\033[1;92m  _ __   __ _| | ___ ___| |_ __ _ _ __  ZINDABAD✔
 jalan("\033[1;97m | '_ \ / _` | |/ / / __| __/ _` | '_ \ ")
 jalan("\033[1;97m | |_) | (_| |   <| \__ \ || (_| | | | |")
 jalan("\033[1;92m | .__/ \__,_|_|\_\_|___/\__\__,_|_| |_|")
@@ -102,8 +102,8 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "xidi"
-CorrectPassword = "xidi"
+CorrectUsername = "LOOSE"
+CorrectPassword = "35007"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
@@ -544,7 +544,7 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....XIDI-PAKISTANI....... \033[1;95m :
+: \033[1;LOOSE ....PAKISTANI....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
               \033[1;91m XP-XIDI"""
