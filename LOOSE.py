@@ -71,7 +71,7 @@ def tik():
 
 
 back = 0
-OK✔ = []
+OK = []
 CP = []
 oks = []
 id = []
